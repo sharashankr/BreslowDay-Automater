@@ -1,0 +1,6 @@
+# Functions to export
+export(load_data)
+export(prepare_data)
+export(perform_breslow_day_test)
+export(perform_chi_square_test)
+export(write_results)

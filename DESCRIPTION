@@ -3,7 +3,7 @@ Type: Package
 Title: Breslow Automater
 Version: 0.1.0
 Author: Sharath
-Maintainer: Your Name <sharathchandra.shankar@example.com>
+Maintainer: Sharath <sharathchandra.shankar@example.com>
 Description: A package for statistical analysis using Breslow-Day and Chi-square tests, designed to load, process, and write results to Excel files.
 License: MIT
 Imports:

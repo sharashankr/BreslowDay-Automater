@@ -50,6 +50,13 @@ The purpose of this package is to streamline the process of performing statistic
 
 Here’s how to use the **BreslowDay Automater** package:
 
+## Input format:
+##3 Stratified Testing
+
+| Section | Survey Q | QN | Claim | Segment A | N-size | A% | A# | Segment B | N-size | B% | B# | p-value |
+|---------|----------|----|-------|------------|--------|----|----|------------|--------|----|----|---------|
+
+
 ```r
 # Load the BreslowDay Automater package
 library(BreslowDayAutomater)

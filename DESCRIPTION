@@ -1,9 +1,9 @@
-Package: MyRPackage
+Package: breslow_automater.R
 Type: Package
-Title: Statistical Analysis Functions
+Title: Breslow Automater
 Version: 0.1.0
-Author: Your Name
-Maintainer: Your Name <your.email@example.com>
+Author: Sharath
+Maintainer: Your Name <sharathchandra.shankar@example.com>
 Description: A package for statistical analysis using Breslow-Day and Chi-square tests, designed to load, process, and write results to Excel files.
 License: MIT
 Imports:
